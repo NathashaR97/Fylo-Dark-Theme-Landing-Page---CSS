@@ -1,6 +1,5 @@
 Welcome! 👋 Thanks for checking out thing Challenge
-[Frontend Metor Link] (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
-
+[Frontend Metor Link] (https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
 Your challenge is to build out this preview card component and get it looking as close to the design as possible. Your users should be able to: View the optimal layout depending on their device's screen size (Responsive) See hover states for interactive elements
 
 Style Guide
